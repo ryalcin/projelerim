@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+
+.ortala{
+    width: 500px;
+    background-color: bisque;
+    margin: 100px auto;
+    padding: 80px;
+}
+input{
+    display: block;
+    width: calc(100% - 30);
+    margin-bottom: 7px;
+    /*height: 50px;  */
+    padding: 15px;
+    outline-color: cyan;
+}
+button{
+    display: block;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    background-color: cyan;
+    color: white;
+}
